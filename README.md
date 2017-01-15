@@ -1,4 +1,4 @@
-# stochastic_optimizers
+# Stochastic Optimizers
 Naive implementation of popular stochastic optimizers
 
 # Here is
